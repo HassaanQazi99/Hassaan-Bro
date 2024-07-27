@@ -1,0 +1,86 @@
+---
+title: "Hassaan`s Qazi Portfolio"
+---
+
+```{=html}
+<style>
+.profile-container {
+  display: flex;
+  align-items: flex-start; /* Align items to the top */
+}
+
+.profile-picture {
+  width: 150px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 20px; /* Space between image and text */
+  border-radius: 8px; /* Optional: adds rounded corners */
+}
+
+.profile-info {
+  display: flex;
+  flex-direction: column; /* Stack the profile picture and links vertically */
+  align-items: flex-start; /* Align items to the left */
+}
+
+.profile-links {
+  margin-top: 10px; /* Space between profile picture and links */
+  display: flex;
+  flex-direction: column; /* Stack the links vertically */
+}
+
+.profile-link a {
+  text-decoration: none; /* Remove underline from links */
+  color: #0077b5; /* LinkedIn blue color */
+  margin-bottom: 5px; /* Space between the two links */
+  font-size: 16px; /* Adjust as needed */
+  display: flex;
+  align-items: center;
+}
+
+.profile-link a:hover {
+  text-decoration: underline; /* Underline on hover for better UX */
+}
+
+.profile-link i {
+  margin-right: 5px; /* Space between icon and text */
+}
+
+.profile-details {
+  max-width: 600px; /* Adjust as needed */
+  text-align: justify; /* Justify the text */
+}
+</style>
+
+<!-- Font Awesome Link for LinkedIn icon (requires internet) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+<div class="profile-container">
+  <div class="profile-info">
+    <img src="Photo.png" alt="Profile Picture" class="profile-picture">
+    <div class="profile-links">
+      <div class="profile-link">
+        <a href="https://www.linkedin.com/in/hassaanqazi/" target="_blank">
+          <i class="fab fa-linkedin"></i> LinkedIn
+        </a>
+      </div>
+      <div class="profile-link">
+        <a href="file:///C:/D%20DriveFolder/IMP/Hassaan-Ali-Qazi-Resume.pdf" target="_blank">
+          My CV
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="profile-details">
+    <p>Hello! My name is Hassaan Ali Qazi, and I am currently a Master’s Student at Europa-Universität Viadrina, pursuing a Master's in International Business Administration. My focus areas include Marketing Strategy, Content Marketing, and Customer Relationship Management (CRM). I hold a Bachelor of Business Administration from Shaheed Zulfikar Ali Bhutto Institute of Science and Technology, where I developed a strong foundation in marketing automation tools and analytics.</p>
+    <p>My professional journey spans roles in digital marketing, content strategy, and client relationship management. At Zameen.com, I served as an Account Manager in Sales, managing over 50 client accounts and significantly increasing client retention and lead generation. I also gained experience in social media planning and SEO optimization during my tenure at Pakistan Digital Awards, where I collaborated on strategies that boosted brand visibility and engagement.</p>
+    <p>As a Marketing & Sales Intern at Habib Oil Mills, I led comprehensive content marketing strategies and conducted market analysis to identify growth opportunities. My experience also includes a Digital Marketing Apprenticeship at Rock Development Solutions, where I specialized in crafting targeted content strategies and utilizing analytics tools to enhance campaign effectiveness.</p>
+    <p>I am passionate about leveraging data-driven insights to optimize marketing campaigns and improve customer experiences. You can find more information about my projects and academic publications on my Publications & Projects page. For inquiries, please feel free to contact me.</p>
+  </div>
+</div>
+
+```
+
+------------------------------------------------------------------------
+
+```{}
+```
